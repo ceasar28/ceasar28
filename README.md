@@ -1,6 +1,6 @@
 # 💫 About Me:
 A versatile Polymath with a passion for engineering and software development.<be>
-I play a game of truth or dare with life;" Truth am not perfect, but I Dare to be better".
+I play a game of truth or dare with life;" Truth am not perfect, but I Dare to be better".<be>
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ceasar28&theme=neon)](https://git.io/streak-stats)

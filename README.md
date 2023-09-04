@@ -12,7 +12,7 @@ I play a game of truth or dare with life;" Truth am not perfect, but I Dare to b
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ceasar28&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Ceasar28&&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
 <!--- ![](https://github-readme-streak-stats.herokuapp.com/?user=Ceasar28&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ceasar28&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ceasar28&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)

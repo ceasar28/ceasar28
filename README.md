@@ -1,5 +1,5 @@
-# 💫 About Me:
-A versatile Polymath with a passion for engineering and softwares.<be>
+# 💫 Hi there 👋:
+My Name is Emmanuel Ekete. I am a versatile Polymath with a passion for engineering and softwares.<be>
 I play a game of truth or dare with life;" Truth am not perfect, but I Dare to be better".<be>
 
 

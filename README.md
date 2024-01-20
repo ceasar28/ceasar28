@@ -1,6 +1,6 @@
 # 💫 Hi there 👋:
-My Name is Emmanuel Ekete. I am a versatile Polymath with a passion for engineering and softwares.<be>
-I play a game of truth or dare with life;" Truth am not perfect, but I Dare to be better".<be>
+
+I'm Emmanuel Ekete, a dynamic Polymath fueled by a love for engineering and software. Life's my game, and I'm playing Truth or Dare: "Truth, I'm not perfect; Dare, I'm striving for better!".<be>
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ceasar28&theme=neon)](https://git.io/streak-stats)

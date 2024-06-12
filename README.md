@@ -1,5 +1,4 @@
 # 💫 Hi there 👋:
-
 I'm Emmanuel Ekete, a dynamic Polymath fueled by a love for engineering and software. Life's my game, and I'm playing Truth or Dare: "Truth, I'm not perfect; Dare, I'm striving for better!".<be>
 
 

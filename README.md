@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+this profile point to : https://github.com/eketeUg
+
 <!--
 **ceasar28/ceasar28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
